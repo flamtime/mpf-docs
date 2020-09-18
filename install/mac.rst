@@ -441,6 +441,10 @@ There's another example project you can also check out if you want called the "M
 that lets you step through a bunch of example display things (slides, widgets, sounds, videos, etc).
 Instructions for running the MC Demo are :doc:`here </example_games/mc_demo>`.
 
+.. note::
+
+   When using MacOS 10.15.5 or above, you may encounter errors indicating that one or more of the frameworks installed are corrupt or cannot be run. To resolve this, you need to open Security & Privacy in System Preferences. In the Developer Tools section, check the box next to "Terminal" to give it appropriate permission to run.
+
 9. Install whatever drivers your hardware controller needs
 ----------------------------------------------------------
 
